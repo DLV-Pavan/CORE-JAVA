@@ -19,7 +19,7 @@ public class ageexceptionnn {
 
     public static void main(String[] args) {
 
-        int age = 16;
+        int age = 18;
 
         try {
             checkAge(age);
