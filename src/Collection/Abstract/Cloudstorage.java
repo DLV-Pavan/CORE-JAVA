@@ -1,4 +1,4 @@
-package Abstract;
+package Collection.Abstract;
 
 abstract class Cloudstorage1 {
 	
