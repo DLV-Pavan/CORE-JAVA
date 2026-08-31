@@ -12,5 +12,6 @@ public class threadcurrthr extends Thread {
 	    tc.start();
 		
 	}
-
+	
 }
+
